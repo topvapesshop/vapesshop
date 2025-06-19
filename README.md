@@ -6,18 +6,19 @@
 
 ## 🌟 產品圖片展示
 
-![電子煙產品圖1](images/vape1.jpg)  
-![電子煙產品圖2](images/vape2.jpg)  
-![電子煙產品圖3](images/vape3.jpg)  
-![電子煙產品圖4](images/vape4.jpg)
-![電子煙產品圖5](images/vape5.jpg)
-
+<p align="center">
+  <img src="images/vape1.jpg" alt="產品1" width="120"/>
+  <img src="images/vape2.jpg" alt="產品2" width="120"/>
+  <img src="images/vape3.jpg" alt="產品3" width="120"/>
+  <img src="images/vape4.jpg" alt="產品4" width="120"/>
+  <img src="images/vape5.jpg" alt="產品5" width="120"/>
+</p>
 
 ---
 
 ## 📦 產品介紹
 
-我們致力於提供全球用戶高品質的電子煙產品，融合創新霧化技術與現代化設計，打造更健康、安全且便捷的吸菸替代體驗。
+我們致力於為全球用戶提供優質的電子煙產品，結合創新霧化技術與現代化設計，打造更健康、安全、便捷的吸菸替代體驗。
 
 **產品特色：**
 - 🔋 高容量鋰電池，長效續航  

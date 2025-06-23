@@ -7,7 +7,7 @@
 ## 🌟 產品圖片展示
 
 <p align="center">
-  <img src="images/vape1.jpg" alt="產品1" width="120"/>
+  <img src="images/30ML-29.webp" alt="產品1" width="120"/>
   <img src="images/vape2.jpg" alt="產品2" width="120"/>
   <img src="images/vape3.jpg" alt="產品3" width="120"/>
   <img src="images/vape4.jpg" alt="產品4" width="120"/>
